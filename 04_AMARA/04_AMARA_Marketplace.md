@@ -8,7 +8,7 @@ Al finalizar esta sesion podras:
 - Crear una API corta en .NET con ayuda de Copilot.
 
 Repositorio de referencia:
-https://github.com/SpainCoE-Amaris/AMARA
+https://github.com/SpainCoE-Amaris/amara-marketplace/tree/main
 
 ## Por que es importante un repositorio interno de plugins
 
